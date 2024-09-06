@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: auto;
+  width: 50vw;
+  width: 50vh;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10%;
+}
+
+button {
+  margin-top: 3%;
+}
